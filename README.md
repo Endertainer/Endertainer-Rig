@@ -1,4 +1,4 @@
-# Endertainer-Rig ![version](https://img.shields.io/badge/version-Release-success) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-informational)
+# Endertainer Rig ![version](https://img.shields.io/badge/version-Release-success) ![license](https://img.shields.io/badge/license-CC%20BY%204.0-informational)
 
 ![banner](./EndRig_Banner.png)
 
